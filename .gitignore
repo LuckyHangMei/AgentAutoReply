@@ -1,0 +1,14 @@
+bin/
+obj/
+artifacts/
+build/
+.vs/
+.omc/
+.acl-recovery/
+.codex/
+.agents/
+.claude/
+.aws/
+.env
+.env.*
+*.user
